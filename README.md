@@ -1,6 +1,6 @@
 # Home
 
-> An awesome project.
+> A docsify sample project.
 
 # Level1
 ## Level2
